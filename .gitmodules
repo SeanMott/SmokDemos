@@ -1,0 +1,3 @@
+[submodule "Library/Smok"]
+	path = Library/Smok
+	url = https://github.com/SeanMott/ReSmok.git
